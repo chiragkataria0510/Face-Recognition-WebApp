@@ -10,15 +10,6 @@ The system is designed to identify suspects by comparing their facial features w
 
 
 
-## Publication
-
-The research was conducted from May 2022 - July 2022 and was associated with the <b>Indian Journal of Applied Research (IJAR)</b>.
-
-The research findings have been accepted for publication in the 1st September 2022 issue of the IJAR.
-
-<b>Link:</b> https://www.worldwidejournals.com/indian-journal-of-applied-research-(IJAR)/fileview/crime-detection-system-using-face-recognition_September_2022_2664725761_8212604.pdf
-
-
 ## Architecture
 ![Architecture](./architecture.png)
 
